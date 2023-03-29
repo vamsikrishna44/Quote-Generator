@@ -1,4 +1,4 @@
 # Quote-Generator
 
 Project live Url  link:
-https://6424354005d10d0c26b8dc84--jovial-toffee-1c1c5c.netlify.app/
+https://64246fceb23186009e74ce6e--keen-gaufre-c8f270.netlify.app/
